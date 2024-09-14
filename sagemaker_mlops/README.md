@@ -73,3 +73,16 @@ sagemaker_mlops/
 - **Integration**: SageMaker integrates seamlessly with other AWS services.
 - **Monitoring**: SageMaker provides tools for monitoring model performance.
 - **CI/CD**: SageMaker supports CI/CD pipelines.
+
+## Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests. Please follow the guidelines below:
+
+1. Fork the repository: Create a fork of this repository to your GitHub account.
+2. Create a branch: Create a new branch for your feature or bug fix.
+3. Make changes: Implement your changes and ensure they are well-documented.
+4. Submit a pull request: Submit a pull request to the main repository for review.
+
+## Contact
+
+For any questions or support, please contact abdulhaffeez on [LinkedIn](https://www.linkedin.com/in/shaik-abdul-haffeez-84719882?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AeT1%2FumQ9SRbkNo711Y7A%3D%3D).
